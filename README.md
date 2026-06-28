@@ -18,7 +18,7 @@ A sleek, browser-based Resume Builder that lets you create, customize, and downl
 
 | Layer    | Technology            |
 |----------|-----------------------|
-| Frontend | HTML, CSS, Vanilla JS |
+| Frontend | HTML, CSS, JS |
 | Backend  | Node.js + Express     |
 
 ---
